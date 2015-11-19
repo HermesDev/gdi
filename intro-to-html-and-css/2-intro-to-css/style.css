@@ -1,0 +1,53 @@
+
+body {
+  font-size: 12px;
+  background-color: beige;
+  color: rgb(255, 0, 0);
+}
+
+p {
+  font-size: 2em;
+}
+
+p strong {
+  color: tomato;
+  font-weight: bold;
+}
+
+body p em {
+  color: rgb(0, 255, 200);
+  font-style: italic;
+}
+
+.odd {
+  background-color: lightblue;
+  
+  padding-top: 1px;
+  padding-left: 2em;
+  padding-right: 5em;
+  padding-bottom: 10px;
+
+  border: solid 6px red;
+
+  border-top-style: dashed;
+  border-bottom-style: dotted;
+}
+/**/
+/**/
+/**/
+.even {
+  background-color: lightgreen;
+}
+
+#desgusting {
+  background-color: orange;
+}
+
+/* this one is a goop-p */
+.good-p {
+  color: blue;
+}
+
+ul li {
+  list-style-type: none;
+}

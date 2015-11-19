@@ -1,0 +1,122 @@
+/*body {
+  font-size: 20px;
+}
+
+.placed-in-absolute {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  right: 90px;
+  bottom: 30px;
+}
+
+.container-relative {
+  width: 600px;
+  position: relative;
+  top: 300px;
+  left: 10%;
+  border: 3px dashed tomato;
+}
+
+.nested-absolute {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+img {
+  width: 500px;
+}
+
+
+.image-container {
+  width: 60%;
+  position: relative;
+  top: 360px;
+  left: 100px;
+  border: 2px solid black;
+}
+
+.image-container .caption {
+  background-color: black;
+  color: white;
+  width: 50%;
+  position: absolute;
+  bottom: 10px;
+  left: 16px;
+}
+
+.relative-box {
+  width: 200px;
+  height: 100px;
+  position: relative;
+  top: 100px;
+  left: 100px;
+  border: 1px solid black;
+}
+
+.absolute-box {
+  width: 20px;
+  height: 10px;
+  position: absolute;
+  bottom: 10px;
+  right: 14px;
+  border: 1px solid red;
+}
+
+.relative-nested-box {
+  width: 10px;
+  height: 10px;
+  position: relative;
+  bottom: 10px;
+  right: 14px;
+  border: 1px solid green;
+  border-radius: 50%;
+}
+*/
+
+
+body {
+  font-size: 4px;
+}
+
+.column {
+  width: 18%;
+  border: 1px solid black;
+  margin: 0 1%;
+  float: left;
+  padding: 0 1em;
+  box-sizing: border-box;
+}
+
+#column1 {
+  background-color: beige;
+}
+
+#column2 {
+  background-color: tomato;
+}
+
+.column:first-child {
+  background-color: black !important;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
